@@ -12,7 +12,7 @@ This project builds an **automated cloud-based data pipeline** that collects and
 
 ## 📊 Dataset & Sources
 - **Data Sources:**
-  - Web scraping for city-related data (country, population, coordinates) from [Wikipedie]
+  - Web scraping for city-related data (country, population, coordinates) from [Wikipedia](https://en.wikipedia.org/)
   - [OpenWeather API](https://openweathermap.org/api) for real-time and forecasted weather data
 - **Dataset Size & Key Features:**
   - [e.g. ~10,000 daily records across 5 cities]
