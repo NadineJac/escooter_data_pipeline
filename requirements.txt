@@ -1,0 +1,5 @@
+functions-framework
+SQLAlchemy
+PyMySQL
+pandas
+pysqlite3-binary
