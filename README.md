@@ -78,3 +78,5 @@ Reproduce results: Use config.yaml to set your own API keys and city list.
 * Deploy a dashboard for live monitoring of scooter availability
 * Extend coverage to additional European cities
 
+## 📁 Database Structure
+![Image of the relational database structure](image.png)
