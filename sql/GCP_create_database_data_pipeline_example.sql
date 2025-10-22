@@ -19,12 +19,6 @@ CREATE TABLE cities (
     longitude DECIMAL(10,3), -- longitude of city
     PRIMARY KEY (city_id) -- Primary key to uniquely identify each author
 );
-/*
-INSERT INTO test_table (FirstName, City)
-VALUES
-("Joan", "Barcelona"),
-("Tim", "Berlin");
-*/
 
 SELECT * FROM cities;
 
