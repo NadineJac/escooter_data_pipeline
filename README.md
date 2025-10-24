@@ -24,7 +24,7 @@ This project builds an **automated cloud-based data pipeline** that collects and
   - Data transformation: converting coordinates to decimal and timestamps to local time (CET)
 
 ## 🚀 Key Findings & Results
-- Read my Meduium post for a comprehensive description of the project and my main takeaways [LINK]
+- Read my Meduium post for a comprehensive description of the project and my main takeaways: [If I Can Build a Data Pipeline, You Can Too: Lessons from My First Cloud Project](https://medium.com/@nadine.jacobsen/if-i-can-build-a-data-pipeline-you-can-too-lessons-from-my-first-cloud-project-e83dde51f666)
 
 ## 🛠️ Technologies Used
 - **Languages:** Python (3.13.7)
