@@ -3,11 +3,6 @@
 -- Drop the database if it already exists
 DROP DATABASE IF EXISTS data_pipeline_example;
 
--- you can drop the whole schema if something went wrong and you have to restaart
--- DROP SCHEMA data_pipeline_example;
--- truncate deletes all data from within the table, but keeps the table itself
--- if you want to delete a parent table, you need to delte the child table first
-
 -- Create the database
 CREATE DATABASE data_pipeline_example;
 
