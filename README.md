@@ -50,14 +50,13 @@ This project builds an **automated cloud-based data pipeline** that collects and
     cd [project_folder]
     pip install -r requirements.txt
     ```
-    Set up SQL: in your desired SQL instance run [create_database...](sql/create_database_data_pipeline_example.sql)
-    
-    Get data locally: run notebooks in[notebooks/local](notebooks/local) in ascending order OR
-    Get data in the cloud: create cloud functions using the code in [notebooks/cloud](notebooks/cloud)
+- **Set up SQL**: in your desired SQL instance run [create_database...](sql/create_database_data_pipeline_example.sql)
+- **Get data locally**: run notebooks in [notebooks/local](notebooks/local) in ascending order OR
+- **Get data in the cloud**: create cloud functions using the code in [notebooks/cloud](notebooks/cloud)
 
 
-Reproduce results: Use key.env to set your own API keys and city list.
+Reproduce results: Use `keys.env` (local) or `keys.py` (cloud) to set your SQL connection, API keys and city list.
 
-🚀 Future Work
+## 🚀 Future Work
 * Add automated alerts when heavy rain is forecasted or when the number of flights arriving spikes
 * Extend coverage to additional European cities
