@@ -1,5 +1,7 @@
-functions-framework
-SQLAlchemy
-PyMySQL
+functions-framework==3.*
 pandas
+requests
+pytz
+sqlalchemy
+pymysql
 pysqlite3-binary
