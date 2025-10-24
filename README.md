@@ -6,6 +6,8 @@
 
 # Automated Data Pipeline to retrieve whether forecats and incoming flights
 
+❗The automated cloud data pipeline version is not not online anymore. The code in this repository can be used to build a data pipeline locally or on GCP.
+
 ## 🎯 Project Overview
 Gans, a fictional fast-growing e-scooter company, aims to optimize scooter distribution across cities by anticipating where and when users will need scooters. While competitors like TIER and Bird emphasize eco-friendly marketing, Gans focuses on operational efficiency.  
 This project builds an **automated cloud-based data pipeline** that collects and stores real-time contextual data (e.g. weather, incoming flights) to help Gans predict e-scooter movements and rebalance their fleet more efficiently.
